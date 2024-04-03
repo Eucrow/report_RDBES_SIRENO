@@ -1,0 +1,18 @@
+PROYECCOD;ESPCOD; CIENTIFICO_SIRENO; APHIAID; UNIPESCOD;FECHA;USUARIO; COMENTARIOS
+1101001;30198;Charonia lampas;141101;;09/07/2020;Marco A. Amez;especie protegida
+1101001;10317;Hoplostethus atlanticus;126402;;09/07/2020;Marco A. Amez;especie protegida
+1101001;10862;Carcharhiniformes;10210;;09/07/2020;Marco A. Amez;
+1101001;11178;Heterodontiformes;148801;;09/07/2020;Marco A. Amez;
+1101001;10847;Hexanchiformes;10206;;09/07/2020;Marco A. Amez;
+1101001;10858;Lamniformes;10209;;09/07/2020;Marco A. Amez;
+1101001;11127;Orectolobiformes;10208;;09/07/2020;Marco A. Amez;
+1101001;10673;Xiphias gladius;127094;BACA_APN;09/07/2020;Marco A. Amez;especie prohibida para el arrastre
+1101001;10673;Xiphias gladius;127094;BACA_CN;09/07/2020;Marco A. Amez;especie prohibida para el arrastre
+1101001;10673;Xiphias gladius;127094;BACA_GC;09/07/2020;Marco A. Amez;especie prohibida para el arrastre
+1101001;10673;Xiphias gladius;127094;JURELERA_CN;09/07/2020;Marco A. Amez;especie prohibida para el arrastre
+1101001;10673;Xiphias gladius;127094;MERLUCER_AC;09/07/2020;Marco A. Amez;especie prohibida para el arrastre
+1101001;10673;Xiphias gladius;127094;PAREJA_CN;09/07/2020;Marco A. Amez;especie prohibida para el arrastre
+1101001;30666;Peracle triacantha;;;31/8/2022;Marco A. Ámez;debe ser un error de identificación
+1101001;00034;Invertebrata;;;31/8/2022;Marco A. Ámez;grupo muy genérico, no se sube
+1101001;00000;Vida;;;31/8/2022;Marco A. Ámez;grupo muy genérico, no se sube
+1101001;00050;Algae;;;31/8/2022;Marco A. Ámez;grupo muy genérico, no se sube

@@ -1,0 +1,28 @@
+PROYECCOD;ESPCOD;CIENTIFICO_SIRENO;APHIAID_SIRENO;CIENTIFICO_WORMS;APHIAID;AL3;Fecha;Usuario;COMENTARIO
+1101001;30156;Sepia spp;138477;Sepiidae;11723;IAX;09/07/2020;Marco A. Amez;This conversion was decided in previous RDB upload process.
+1101001;10494;Diplodus sargus sargus;223863;Diplodus sargus;127053;SWA;09/07/2020;Marco A. Amez;Diplodus sargus sargus is not an accepted name in Worms.
+1101001;10710;Trachyscorpia cristulata echinata;293754;Trachyscorpia echinata;127257;TZY;09/07/2020;Marco A. Amez;Trachyscorpia cristulata echinata is not an accepted name in Worms.
+1101001;10796;Phrynorhombus regius;236488;Zeugopterus regius;236488;;09/07/2020;Marco A. Amez;The Aphia Id stored in SIRENO of Phrynorhombus regius is the code of Zeugopterus regius.
+1101001;10251;Gadiculus argenteus argenteus;236455;Gadiculus argenteus;126435;GDG;10/9/2019;Marco A. Amez;Gadiculus argenteus argenteus is not an accepted name in Worms.
+1101001;60001;Petrosia dura;;Petrosia (Petrosia) ficiformis;166837;;10/9/2019;Marco A. Amez;Petrosia dura is not an accepted name in Worms.
+1101001;60517;Pteroeides spinosum;;Pteroeides griseum;181504;;04/11/2019;Marco A. Amez;Pteroeides spinosum is a synonym of Pteroeides griseum.
+1101001;30053;Cymatium corrugatum;;Monoplex corrugatus;476518;;04/11/2019;Marco A. Amez;Cymatium corrugatum is not an accepted name in Worms.
+1101001;10337;Liza ramada;126980;Chelon ramada;1042830;MGC;19/1/2021;Marco A. Amez; Liza ramada is not an accepted name in Worms.
+1101001;10338;Liza aurata;126978;Chelon auratus;1044127;MGA;19/1/2021;Marco A. Amez; Liza aurata is not an accepted name in Worms.
+1101001;10933;Facciolella oxyrhyncha;126307;Facciolella oxyrhynchus;126307;NHF;2/9/2022;Marco A. Amez; Facciolella oxyrhyncha is not an accepted name in Worms.
+
+
+ESTAS ESPECIES NO TIENEN CODIGO EN EL SIRENO, comprobar que el fichero rdbes_especies.txt las incluyen con el nombre actual y no con el nombre no aceptado --> veo que en el sireno tienen el código y nombre actualizado, pero en el fichero rdbes_species.txt el nombre tiene el antiguo --> corregir y mandar a Fran
+
+1101001;;Pteromylaeus bovinus;105861;Aetomylaeus bovinus;871951;2/9/2022;Marco A. Amez;Pteromylaeus bovinus is not an accepted name in Worms.
+1101001;;Macropodia longipes;107342;Macropodia tenuirostris;107346;2/9/2022;Marco A. Amez;Macropodia longipes is not an accepted name in Worms.
+1101001;;Synaptura lusitanica;127162;Dagetichthys lusitanicus;403345;2/9/2022;Marco A. Amez;Synaptura lusitanica is not an accepted name in Worms.
+1101001;;Peracle triacantha;140723;Peracle elata;606299;2/9/2022;Marco A. Amez;Peracle triacantha is not an accepted name in Worms.
+1101001;;Notoscopelus kroeyeri;400473;Notoscopelus kroyeri;272728;2/9/2022;Marco A. Amez; Notoscopelus kroeyeri is not an accepted name in Worms.
+
+
+
+
+
+
+

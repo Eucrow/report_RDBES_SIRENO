@@ -1,0 +1,24 @@
+# Visual Studio Code
+.vscode/
+.lintr
+
+# RStudio
+.Rproj.user
+.Rhistory
+.Rbuildignore
+.RData
+*.Rproj
+*.Rproj.user
+
+# MI_RDBES_ExchangeFiles
+output/
+referenceData/
+tableDefs/
+
+# input files
+input/
+
+# Just in case
+*.xlsx
+*.rds
+*.sql
